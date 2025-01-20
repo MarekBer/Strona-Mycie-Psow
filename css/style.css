@@ -345,7 +345,7 @@ a:focus {
 }
 
 .slider_section .detail-box h1 span {
-  color: #e7d619;
+  color: #ff0000;
 }
 
 .slider_section .detail-box .btn-box {
@@ -834,13 +834,13 @@ a:focus {
 }
 
 .food_section .food_container .box .detail-box h6 {
-  color: #e7d619;
+  color: #ff0000;
   text-transform: uppercase;
 }
 
 .food_section .food_container .box .detail-box h3 {
   font-weight: bold;
-  color: #e7d619;
+  color: #ff0000;
 }
 
 .food_section .food_container .box .detail-box h3 span {
